@@ -24,7 +24,7 @@ repository               : "syz913/syz913.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Yizhe Shi"
   name_zh          : "史一哲"
   pronouns         : # example: "she/her"  
