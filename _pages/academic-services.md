@@ -7,5 +7,13 @@ translation_url: /zh/academic-services/
 redirect_from:
   - /academic-service/
 ---
-**Reviewers**: USENIX Security 2027
-**Sub Reviewers**: TIFS 2025, NDSS 2026, TSE 2026, TDSC 2023
+## Reviewer
+
+* USENIX Security 2027
+
+## Subreviewer
+
+* IEEE TIFS 2025
+* NDSS 2026
+* IEEE TSE 2026
+* IEEE TDSC 2023
