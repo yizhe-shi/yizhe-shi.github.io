@@ -19,6 +19,9 @@ redirect_from:
 * **2017.09-2021.06**：复旦大学，计算机科学技术学院，本科。
 
 ## 新闻
+* **[2026年9月]** 🎉 我们关于小程序隐私合规的论文被 **CCS 2026** 录用。
+* **[2026年9月]** 🎉 我们关于移动应用访问控制漏洞的论文被 **CCS 2026** 录用。
+* **[2026年8月]** 🎉 我们关于移动应用广告机制缺陷的论文被 **NDSS 2027** 录用。
 * **[2026年5月]** 🎉 我们的白泽·鉴微平台获得 **2026 数字中国创新大赛金奖**。
 * **[2025年9月]** 🎉 我们关于小程序恶意行为的论文被 **IEEE S&P 2026** 录用。
 * **[2025年8月]** 🎉 我们关于小程序云服务资源管理缺陷的论文被 **NDSS 2026** 录用。
@@ -26,6 +29,15 @@ redirect_from:
 * **[2024年8月]** 🎉 我们关于小程序密钥泄露的论文被 **NDSS 2025** 录用。
 
 ## 代表性论文
+* **[NDSS 2027]** Reap Without Sowing: Dissecting Reward Fraud in the In-app Ad Networks.  
+  **Yizhe Shi**, Zhemin Yang, Qirui Zhu, Yifan Yang. **(CCF-A，安全四大顶会)**
+
+* **[CCS 2026]** Foot in the Door: Uncovering the Multi-Step Authorization Exploitation in Mobile Applications.  
+  **Yizhe Shi**, Zhemin Yang, Qiaodan Hou, Lukai Cui, Cheng Sheng, Xiaohan Zhang, Min Yang. **(CCF-A，安全四大顶会)**
+
+* **[CCS 2026]** No One Cares About Privacy But You: Understanding Data Deletion Practices in the App-in-App Ecosystem.  
+  **Yizhe Shi**, Zhemin Yang, Houliang Wan, Chongxin Hu. **(CCF-A，安全四大顶会)**
+
 * **[IEEE S&P 2026]** Convenience at a Cost: The Security Risks of Template-based Development in the App-in-App Ecosystem.   
   **Yizhe Shi**, Zhemin Yang, Yifan Yang, Yunteng Yang, Min Yang. **(CCF-A，安全四大顶会)**
 

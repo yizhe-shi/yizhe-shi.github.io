@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcom to my homepage!
+Welcome to my homepage!
 
 My name is **Yizhe Shi**, a Ph.D. candidate at the College of Computer Science and Artificial Intelligence, Fudan University. I am a student of the [System Software and Security Laboratory](https://security.fudan.edu.cn/), advised by [Prof. Zhemin Yang](https://yangzhemin.github.io/) and [Prof. Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en).
 
@@ -21,13 +21,25 @@ I am interested in understanding emerging security and privacy risks in complex 
 * **2017.09-2021.06**: B.S., Fudan University, School of Computer Science.
 
 ## News
+* **[Sep. 2026]** 🎉 Our paper on privacy compliance in mini-apps has been accepted by **CCS 2026**!
+* **[Sep. 2026]** 🎉 Our paper on access control vulnerabilities in mobile applications has been accepted by **CCS 2026**!
+* **[Aug. 2026]** 🎉 Our paper on flaws in mobile in-app advertising mechanisms has been accepted by **NDSS 2027**!
 * **[May 2026]** 🎉 Our mini-app security platform won the **Gold Prize** at the Digital China Innovation Contest (DCIC) 2026!
 * **[Sep. 2025]** 🎉 Our paper on mini-app malware has been accepted by **IEEE S&P 2026**!
-* **[Aug. 2025]** 🎉 Our page on resource management vulnerabilities in App-in-App cloud services has been accepted by **NDSS 2026**.
+* **[Aug. 2025]** 🎉 Our paper on resource management vulnerabilities in App-in-App cloud services has been accepted by **NDSS 2026**!
 * **[July 2025]** 🚀 Our platform for mini-app security, [白泽·鉴微](https://security.fudan.edu.cn/miniappplatform), is now **online**. We have identified over 50k vulnerable mini-apps.
-* **[Aug. 2024]** 🎉 Our paper on credential leakage in mini-apps has been accepted by **NDSS 2025**.
+* **[Aug. 2024]** 🎉 Our paper on credential leakage in mini-apps has been accepted by **NDSS 2025**!
 
 ## Selected Publications
+* **[NDSS 2027]** Reap Without Sowing: Dissecting Reward Fraud in the In-app Ad Networks.  
+  **Yizhe Shi**, Zhemin Yang, Qirui Zhu, Yifan Yang. **(CCF-A, Security BIG4 Conference)**
+
+* **[CCS 2026]** Foot in the Door: Uncovering the Multi-Step Authorization Exploitation in Mobile Applications.  
+  **Yizhe Shi**, Zhemin Yang, Qiaodan Hou, Lukai Cui, Cheng Sheng, Xiaohan Zhang, Min Yang. **(CCF-A, Security BIG4 Conference)**
+
+* **[CCS 2026]** No One Cares About Privacy But You: Understanding Data Deletion Practices in the App-in-App Ecosystem.  
+  **Yizhe Shi**, Zhemin Yang, Houliang Wan, Chongxin Hu. **(CCF-A, Security BIG4 Conference)**
+
 * **[IEEE S&P 2026]** Convenience at a Cost: The Security Risks of Template-based Development in the App-in-App Ecosystem.   
   **Yizhe Shi**, Zhemin Yang, Yifan Yang, Yunteng Yang, Min Yang. **(CCF-A, Security BIG4 Conference)**
 
