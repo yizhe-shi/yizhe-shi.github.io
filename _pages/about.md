@@ -16,7 +16,7 @@ My name is **Yizhe Shi**. I have been an Assistant Professor (晨晖学者) at t
 My research interests include **Mobile Security**, **LLM/Agent Security**, **Program Analysis** and **Software Testing**. My work focuses on real-world software ecosystems, including Android applications, mini-apps, and LLM/Agent systems.
 I study security and privacy risks in these ecosystems and develop automated, scalable, LLM-assisted analysis and testing techniques to uncover vulnerabilities, privacy leaks, resource abuse, and malicious behaviors.
 
-## Academic Appointment
+## Work
 
 * **2026.10-Present**: Assistant Professor (晨晖学者), Software Engineering Institute, East China Normal University.
 
