@@ -28,13 +28,13 @@ author:
   name             : "Yizhe Shi"
   name_zh          : "史一哲"
   pronouns         : # example: "she/her"  
-  bio              : "School of Computer Science, Fudan University"
-  bio_zh           : "复旦大学计算与智能创新学院"
+  bio              : "Assistant Professor (晨晖学者), Software Engineering Institute, East China Normal University"
+  bio_zh           : "华东师范大学软件工程学院晨晖学者"
   location         : "Shanghai"
   location_zh      : "上海"
   # employer         : "Red Brick University"
   uri              : # URL
-  email            : "yzshi23@m.fudan.edu.cn" 
+  email            : "yzshi@sei.ecnu.edu.cn"
 
   # Academic websites
   academia         : # URL

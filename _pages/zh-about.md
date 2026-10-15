@@ -10,12 +10,16 @@ redirect_from:
 
 欢迎访问我的个人主页！
 
-我是**史一哲**，目前是复旦大学计算与智能创新学院博士研究生，来自[系统软件与安全实验室](https://security.fudan.edu.cn/)，导师为[杨哲慜副教授](https://yangzhemin.github.io/)和[杨珉教授](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)。
+我是**史一哲**，目前是华东师范大学软件工程学院晨晖学者。博士毕业于复旦大学[系统软件与安全实验室](https://security.fudan.edu.cn/)，导师为[杨哲慜副教授](https://yangzhemin.github.io/)和[杨珉教授](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)。
 
-我的研究方向主要包括 **移动安全**、**LLM/Agent 安全**、**程序分析** 和 **隐私安全**。我的工作面向真实世界软件生态，研究 Android 应用、小程序以及 LLM/Agent 等系统中的安全与隐私问题。具体而言，我致力于揭示复杂软件生态中的漏洞、隐私泄露、敏感资源滥用和恶意行为，并构建自动化、可扩展、LLM 辅助的分析技术，以支持大规模安全检测、风险评估和生态治理。
+我的研究方向主要包括 **移动安全**、**LLM/Agent 安全**、**程序分析**、**软件测试** 和 **隐私安全**。我的工作面向真实世界软件生态，研究 Android 应用、小程序以及 LLM/Agent 等系统中的安全与隐私问题。具体而言，我致力于揭示复杂软件生态中的漏洞、隐私泄露、敏感资源滥用和恶意行为，并构建自动化、可扩展、LLM 辅助的分析与测试技术，以支持大规模安全检测、风险评估和生态治理。
+
+## 工作经历
+
+* **2026.10-至今**：华东师范大学软件工程学院晨晖学者。
 
 ## 教育经历
-* **2021.09-至今**：复旦大学，计算与智能创新学院，博士研究生。
+* **2021.09-2026.09**：复旦大学，计算与智能创新学院，博士。
 * **2017.09-2021.06**：复旦大学，计算机科学技术学院，本科。
 
 ## 新闻
@@ -48,4 +52,4 @@ redirect_from:
   **Yizhe Shi**, Zhemin Yang, Kangwei Zhong, Guangliang Yang, Yifan Yang, Xiaohan Zhang, Min Yang. **(CCF-A，安全四大顶会)**
 
 
-**如果你对我的研究感兴趣，或希望交流合作，欢迎通过邮件联系我：[yzshi23@m.fudan.edu.cn](mailto:yzshi23@m.fudan.edu.cn)。**
+**如果你对我的研究感兴趣，或希望交流合作，欢迎通过邮件联系我：[yzshi@sei.ecnu.edu.cn](mailto:yzshi@sei.ecnu.edu.cn)。**

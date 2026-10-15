@@ -11,13 +11,17 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is **Yizhe Shi**, a Ph.D. candidate at the College of Computer Science and Artificial Intelligence, Fudan University. I am a student of the [System Software and Security Laboratory](https://security.fudan.edu.cn/), advised by [Prof. Zhemin Yang](https://yangzhemin.github.io/) and [Prof. Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en).
+My name is **Yizhe Shi**. I have been an Assistant Professor (晨晖学者) at the Software Engineering Institute, East China Normal University since October 2026. My doctoral research at Fudan University was conducted in the [System Software and Security Laboratory](https://security.fudan.edu.cn/), advised by [Prof. Zhemin Yang](https://yangzhemin.github.io/) and [Prof. Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en).
 
-My research interests focus on **Mobile Security**, especially within the App-in-App ecosystem (e.g., mini-apps and super-apps), **Program Analysis** and **LLM/Agent Security**.
-I am interested in understanding emerging security and privacy risks in complex mobile and LLM-augmented ecosystems, and in building automated, LLM-assisted techniques to detect vulnerabilities and malicious behaviors at scale.
+My research interests include **Mobile Security**, **LLM/Agent Security**, **Program Analysis**, **Software Testing**, and **Privacy and Security**. My work focuses on real-world software ecosystems, including Android applications, mini-apps, and LLM/Agent systems.
+I study security and privacy risks in these ecosystems and develop automated, scalable, LLM-assisted analysis and testing techniques to uncover vulnerabilities, privacy leaks, resource abuse, and malicious behaviors.
+
+## Academic Appointment
+
+* **2026.10-Present**: Assistant Professor (晨晖学者), Software Engineering Institute, East China Normal University.
 
 ## Education
-* **2021.09-Now**: Ph.D., Fudan University, College of Computer Science and Artificial Intelligence.
+* **2021.09-2026.09**: Ph.D., Fudan University, College of Computer Science and Artificial Intelligence.
 * **2017.09-2021.06**: B.S., Fudan University, School of Computer Science.
 
 ## News
@@ -50,4 +54,4 @@ I am interested in understanding emerging security and privacy risks in complex 
   **Yizhe Shi**, Zhemin Yang, Kangwei Zhong, Guangliang Yang, Yifan Yang, Xiaohan Zhang, Min Yang. **(CCF-A, Security BIG4 Conference)**
 
 
-**If you are interested in my research or potential collaborations, please feel free to drop me an email: [yzshi23@m.fudan.edu.cn](mailto:yzshi23@m.fudan.edu.cn).**
+**If you are interested in my research or potential collaborations, please feel free to drop me an email: [yzshi@sei.ecnu.edu.cn](mailto:yzshi@sei.ecnu.edu.cn).**

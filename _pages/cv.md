@@ -3,62 +3,58 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+lang: en
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**Yizhe Shi · 史一哲**<br>
+Assistant Professor (晨晖学者)<br>
+Software Engineering Institute, East China Normal University<br>
+Email: [yzshi@sei.ecnu.edu.cn](mailto:yzshi@sei.ecnu.edu.cn)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Academic Appointment
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2026.10-Present**: Assistant Professor (晨晖学者), Software Engineering Institute, East China Normal University.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **2021.09-2026.09**: Ph.D., Fudan University, College of Computer Science and Artificial Intelligence. Advisors: [Prof. Zhemin Yang](https://yangzhemin.github.io/) and [Prof. Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en).
+* **2017.09-2021.06**: B.S., Fudan University, School of Computer Science.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Interests
+
+Mobile Security; LLM/Agent Security; Program Analysis; Software Testing; Privacy and Security.
+
+## Selected Publications
+
+* **[NDSS 2027]** Reap Without Sowing: Dissecting Reward Fraud in the In-app Ad Networks.<br>
+  **Yizhe Shi**, Zhemin Yang, Qirui Zhu, Yifan Yang. **(CCF-A, Security BIG4 Conference)**
+
+* **[CCS 2026]** Foot in the Door: Uncovering the Multi-Step Authorization Exploitation in Mobile Applications.<br>
+  **Yizhe Shi**, Zhemin Yang, Qiaodan Hou, Lukai Cui, Cheng Sheng, Xiaohan Zhang, Min Yang. **(CCF-A, Security BIG4 Conference)**
+
+* **[CCS 2026]** No One Cares About Privacy But You: Understanding Data Deletion Practices in the App-in-App Ecosystem.<br>
+  **Yizhe Shi**, Zhemin Yang, Houliang Wan, Chongxin Hu. **(CCF-A, Security BIG4 Conference)**
+
+* **[IEEE S&P 2026]** Convenience at a Cost: The Security Risks of Template-based Development in the App-in-App Ecosystem.<br>
+  **Yizhe Shi**, Zhemin Yang, Yifan Yang, Yunteng Yang, Min Yang. **(CCF-A, Security BIG4 Conference)**
+
+* **[NDSS 2026]** Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services.<br>
+  **Yizhe Shi**, Zhemin Yang, Dingyi Liu, Kangwei Zhong, Jiarun Dai, Min Yang. **(CCF-A, Security BIG4 Conference)**
+
+* **[NDSS 2025]** The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps.<br>
+  **Yizhe Shi**, Zhemin Yang, Kangwei Zhong, Guangliang Yang, Yifan Yang, Xiaohan Zhang, Min Yang. **(CCF-A, Security BIG4 Conference)**
+
+## Academic Services
+
+### Reviewer
+
+* USENIX Security 2027
+
+### Subreviewer
+
+* IEEE TIFS 2025
+* NDSS 2026
+* IEEE TSE 2026
+* IEEE TDSC 2023
