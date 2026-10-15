@@ -13,7 +13,7 @@ Welcome to my homepage!
 
 My name is **Yizhe Shi**. I have been an Assistant Professor (晨晖学者) at the Software Engineering Institute, East China Normal University since October 2026. My doctoral research at Fudan University was conducted in the [System Software and Security Laboratory](https://security.fudan.edu.cn/), advised by [Prof. Zhemin Yang](https://yangzhemin.github.io/) and [Prof. Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en).
 
-My research interests include **Mobile Security**, **LLM/Agent Security**, **Program Analysis**, **Software Testing**, and **Privacy and Security**. My work focuses on real-world software ecosystems, including Android applications, mini-apps, and LLM/Agent systems.
+My research interests include **Mobile Security**, **LLM/Agent Security**, **Program Analysis** and **Software Testing**. My work focuses on real-world software ecosystems, including Android applications, mini-apps, and LLM/Agent systems.
 I study security and privacy risks in these ecosystems and develop automated, scalable, LLM-assisted analysis and testing techniques to uncover vulnerabilities, privacy leaks, resource abuse, and malicious behaviors.
 
 ## Academic Appointment
