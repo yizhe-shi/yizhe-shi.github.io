@@ -54,4 +54,4 @@ I study security and privacy risks in these ecosystems and develop automated, sc
   **Yizhe Shi**, Zhemin Yang, Kangwei Zhong, Guangliang Yang, Yifan Yang, Xiaohan Zhang, Min Yang. **(CCF-A, Security BIG4 Conference)**
 
 
-**If you are interested in my research or potential collaborations, please feel free to drop me an email: [yzshi@sei.ecnu.edu.cn](mailto:yzshi@sei.ecnu.edu.cn).**
+**I am always looking for highly motivated students who are passionate about research. If you are interested in my research or potential collaborations, please feel free to drop me an email: [yzshi@sei.ecnu.edu.cn](mailto:yzshi@sei.ecnu.edu.cn).**

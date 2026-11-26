@@ -9,10 +9,11 @@ translation_url: /academic-services/
 ## Reviewer
 
 * USENIX Security 2027
+* TDSC 2026
 
 ## Subreviewer
 
-* IEEE TIFS 2025
+* TIFS 2025
 * NDSS 2026
-* IEEE TSE 2026
-* IEEE TDSC 2023
+* TSE 2026
+* TDSC 2023
